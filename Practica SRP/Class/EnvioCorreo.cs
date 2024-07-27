@@ -13,6 +13,4 @@ namespace Practica_SRP.Class
             Console.WriteLine($"Enviando correo desde {persona.CorreoElectronico} ....");            
         }
     }
-
-
 }
